@@ -1,13 +1,13 @@
 # LEAP (Loan Eligibility Assessment Project)
 
-## 📌 Overview
+## Overview
 
 LEAP is designed to streamline the process of determining loan eligibility.
 The project aims to save valuable time for both banks and customers by automating the assessment process, ensuring faster decisions and a more efficient loan application experience.
 
 ---
 
-## 🚩 Problem Statement
+## Problem Statement
 
 Banks and financial institutions face challenges in quickly evaluating customer profiles for loan eligibility.Manual checks are time-consuming and prone to inconsistencies. LEAP addresses this by automating the following key eligibility calculations:
 
@@ -19,7 +19,7 @@ Banks and financial institutions face challenges in quickly evaluating customer 
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Reduce the time required for loan eligibility checks.
 - Provide accurate and consistent results across different loan products.
@@ -28,7 +28,7 @@ Banks and financial institutions face challenges in quickly evaluating customer 
 
 ---
 
-## 🛠️ Tech Stack (example placeholders)
+## Tech Stack (example placeholders)
 
 - **Python / Pandas / NumPy** for data processing
 - **Scikit-learn** for model building (if ML is used)
@@ -37,7 +37,7 @@ Banks and financial institutions face challenges in quickly evaluating customer 
 
 ---
 
-## 🚀 Future Scope
+## Future Scope
 
 - Integration with real-time bank APIs.
 - Expansion to other loan types (home loans, car loans, etc.).
