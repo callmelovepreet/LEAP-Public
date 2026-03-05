@@ -18,3 +18,8 @@
 
 ## 3 March 2026
 - ✅ Working AI assist (ChatBot)
+
+## 5 March 2026
+- ✅ Working on adding new bank
+- ✅ Basic Details Rules Added
+
