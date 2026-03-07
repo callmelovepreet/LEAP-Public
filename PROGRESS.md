@@ -24,6 +24,5 @@
 - ✅ Basic Details Rules Added
 
 ## 6 March 2026
-- ✅ Issues resolving
 - ✅ Eligibility rules more added.
 
