@@ -27,5 +27,5 @@
 - ✅ Eligibility rules more added.
 
 ## 8 March 2026
-- My laptop got spilled by milk and not working anymore. 😭🙂
+- My laptop got spilled by milk and not working anymore 😭🙂
 
